@@ -1,0 +1,15 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Este es mi primer proyecto de JavaScript con Node en OpenBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "curso",
+    "javascript"
+  ],
+  "author": "Sonia Ramis",
+  "license": "ISC"
+}
